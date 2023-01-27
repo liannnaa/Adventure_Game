@@ -1,0 +1,1 @@
+global.avatar_hp -= 1
